@@ -14,7 +14,7 @@ Advantages of  (JIIT)
 
 A)  It  consists of  Wilmix  Advanced Business  For  Overtaking   all  WRIT  competitors.
 
-B) used only for  Native  p.l like  java,dotnet, php,android,phython , C/C++,and sap.
+B) used only for  Native  p.l like  java,dotnet, ,android,R , C/C++,and sap.
 
 c) used  only for   WRIT  P.L like JDollar,JAS ,SRGX,CWEB secion,JWEB section.
 
