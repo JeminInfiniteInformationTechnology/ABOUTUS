@@ -1,0 +1,8 @@
+title: Aboutus
+description: "Jemininfiniteinformationtechnology  is  focused   only  on Advanced Business "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
